@@ -13,7 +13,7 @@
 
 
 <p align="center">
-<a href="https://github.com/AnitaSobhanian/utether.git">📱 Visit this Project</a>
+<a href="https://github.com/AnitaSobhanian/utether/blob/main/turing.png">📱 Visit this Project</a>
 </p>
 
 <h2 id="layout">🎨 Layout</h2>
