@@ -20,7 +20,7 @@
 
 <p align="center">
 
-<img src="https://github.com/AnitaSobhanian/utether/blob/master/tether.png" alt="BookShop" width="400px">
+<img src="https://github.com/AnitaSobhanian/utether/blob/master/tether.png" alt="tether" width="400px">
 </p>
 
 <h2 id="technologies">💻 Technologies</h2>
